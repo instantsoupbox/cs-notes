@@ -1,2 +1,2 @@
-# data-analysis-track
-Learning data analysis with pandas
+# cs-notes
+Various notes and cheatsheets on cs concepts and topics.
